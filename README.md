@@ -1,2 +1,3 @@
 # geradorSenha
+## Gerando senha automatica com caracteres...
  Desenvolvendo com  a Biblioteca React-Native utilizando a ferramenta Expo
