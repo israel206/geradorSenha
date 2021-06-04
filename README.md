@@ -1,5 +1,5 @@
  <h1 align="center">
-    <img alt="geradorSenha" title="geradorSenha" src=".github/logo.png" width="30px" />
+    <img alt="geradorSenha" title="geradorSenha" src=".github/logo.png" width="50px" />
 </h1>
 
 <p align="center">
