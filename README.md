@@ -22,7 +22,7 @@
 <br>
 
 <p align="center">
-  <img alt="geradorSenha" src=".github/GeradorSenha.gif" width="30%">
+  <img alt="geradorSenha" src=".github/GeradorSenha.gif" width="80%">
 </p>
 </p>
 
