@@ -60,8 +60,6 @@ $ expo start
 
 ## 💻 Project
 
-App to always remember to water your plants 🌱
-
 mobile application development
 
 ---
